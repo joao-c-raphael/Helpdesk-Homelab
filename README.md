@@ -15,5 +15,8 @@ P.
 <h2>Set-Up:</h2>
 P.
 
+<h2>Deployment and Configuration</h2>
+P.
+
 <h2>Actions and Observations</h2>
 P.
